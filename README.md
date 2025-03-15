@@ -14,7 +14,7 @@ A simple ToDo application built with React and Redux for managing tasks. This ap
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Onesmus123/Redux-Checkpoint.git
+   git clone https://github.com/Alois117/-Redux-Checkpoint.git
 
 2. **Navigate to the project directory:**
    ```bash
